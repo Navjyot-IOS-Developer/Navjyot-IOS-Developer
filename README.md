@@ -1,3 +1,6 @@
+html     <p align="center">       <img src="YOUR_IMAGE_URL"            alt="Navjyot iOS Developer Banner"            width="100%">     </p>
+
+
 # 👋 Hello World! I'm Navjyot
 
 ### 🚀 Aspiring iOS App Developer | Swift Learner | Future Apple Ecosystem Developer
